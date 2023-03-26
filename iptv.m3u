@@ -8,8 +8,6 @@ https://live.v1.mk/api/bestv.php?id=cctv38m/8000000/mnf.m3u8
 https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="百事通",CCTV5
 https://live.v1.mk/api/bestv.php?id=cctv58m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="百事通",CCTV5+
-https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="百事通",CCTV6
 https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="百事通",CCTV7
@@ -36,6 +34,8 @@ https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000/mnf.m3u8
 https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="百事通",CCTV17
 https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="百事通",CCTV5+
+https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="百事通",CCTV-4K
 https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="百事通",江苏卫视
