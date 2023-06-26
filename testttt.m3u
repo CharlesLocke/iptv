@@ -1,2 +1,3 @@
+#EXTM3U name="bj-unicom-iptv"
 #EXTINF:-1,CCTV1
 rtp://239.253.2.57:8322
